@@ -103,50 +103,50 @@ experiences:
           
 
 
-certifications:
-      title: Certifications
-      list:
-        - name: 
-          start: 
-          end: 
-          organization: 
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: 
+#           start: 
+#           end: 
+#           organization: 
+#           credentialid: 
+#           credentialurl: 
+#           credentialname: 
+#           details: |
             
 
-projects:
-    title: Projects
-    intro: >
+# projects:
+#     title: Projects
+#     intro: >
       
 
-    assignments:
-      - title: 
-        link: 
-        tagline: 
+#     assignments:
+#       - title: 
+#         link: 
+#         tagline: 
 
   
-oss:
-    title: OSS Contributions
-    intro: >
+# oss:
+#     title: OSS Contributions
+#     intro: >
       
-    contributions:
-      - title:
-        link:
-        tagline:
+#     contributions:
+#       - title:
+#         link:
+#         tagline:
 
 
-publications:
-    title: Publications
-    intro: |
+# publications:
+#     title: Publications
+#     intro: |
 
     
-    papers:
-      - title:
-        link:
-        authors:
-        conference:
+#     papers:
+#       - title:
+#         link:
+#         authors:
+#         conference:
 
 skills:
     title: Skills &amp; Proficiency
